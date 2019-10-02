@@ -1,0 +1,3 @@
+added error logging 
+add succes redirect and failed redirect
+all is finished
